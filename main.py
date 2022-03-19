@@ -13,6 +13,7 @@ def makePixelData(oldImg, NewImg):
 if __name__ == '__main__':
     oldArray, newArray = makePixelData(img1989, img2021)
 
+    # 画像生成処理
     generateImg = []
     for row in range(len(oldArray)):
         generateRow = []
