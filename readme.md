@@ -7,6 +7,11 @@
 ### 楓が要求する重ね合わせの時のアルゴリズム
 ![IMG_1835](https://user-images.githubusercontent.com/61937077/159150685-695e5100-466f-4e9e-b2b4-e8f1567847e4.jpg)
 
+### 実行結果(main.py)
+![Figure_1](https://user-images.githubusercontent.com/61937077/160282485-6ae5eb4f-ba18-4105-acb3-fbeda5092d10.png)
+
+#### kmeansによる色使用率分析(colorDevider.py)
+![colorDevider](https://user-images.githubusercontent.com/61937077/160282584-e8d31fb1-53e9-4543-92dd-f0f25aa8969f.png)
 
 ## Install Modules
 ```
